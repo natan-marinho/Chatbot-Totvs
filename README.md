@@ -1,6 +1,6 @@
 # 🤖 Chatbot com IA (Next.js + Gemini)
 
-Este projeto é um chatbot de inteligência artificial construído com **Next.js 13+**, **React**, **TypeScript**, **API Gemini (Google)** e **Styled Components**, com componentes selecionados substituídos por **shadcn/ui**.
+Este projeto é um chatbot de inteligência artificial construído com **Next.js 13+**, **React**, **TypeScript**, **API Gemini (Google)** e **Styled Components**.
 
 ## 🚀 Deploy
 
@@ -29,7 +29,7 @@ Este projeto é um chatbot de inteligência artificial construído com **Next.js
 1. Clone o projeto:
 
 ```bash
-git clone https://github.com/seu-usuario/chatbot-ia
+git clone https://github.com/natan-marinho/Chatbot-Totvs
 ```
 
 2. Instale as dependências:
