@@ -4,7 +4,7 @@ Este projeto é um chatbot de inteligência artificial construído com **Next.js
 
 ## 🚀 Deploy
 
-🔗 [https://chatbot-ia-natan.vercel.app/](https://chatbot-ia-natan.vercel.app/)
+🔗 [chatbot-totvs.vercel.app/](chatbot-totvs.vercel.app)
 
 ## 🧠 Tecnologias
 
@@ -13,7 +13,6 @@ Este projeto é um chatbot de inteligência artificial construído com **Next.js
 - TypeScript
 - API Google Gemini
 - Styled Components
-- Shadcn UI (botões e inputs)
 - LocalStorage (histórico)
 
 ## 💬 Funcionalidades
@@ -24,7 +23,6 @@ Este projeto é um chatbot de inteligência artificial construído com **Next.js
 - Tratamento de erros da API
 - Histórico de mensagens salvo no navegador
 - Exportação do chat para `.txt`
-- Botões estilizados com `shadcn/ui`
 
 ## 📦 Como rodar localmente
 
@@ -63,7 +61,6 @@ npm run dev
 - **Gemini API**: Escolhida por ser gratuita, moderna e robusta.
 - **Next.js 13 com App Router**: Aproveitamento das features mais recentes da framework.
 - **Styled Components**: Flexibilidade para personalização visual.
-- **Shadcn UI**: Adicionado para atender ao diferencial de biblioteca de componentes moderna.
 - **LocalStorage**: Evita dependência de backend para armazenar histórico.
 
 ---
